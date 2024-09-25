@@ -14,7 +14,7 @@ Mise en place d'un mécanisme d'extraction quotidienne de données via des Scrip
 
 ### 2. Architecture de la gestion des erreurs et notifications
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a4afb7bb-9011-4397-be36-80fb92a25b3c" width="600" height="400"/>
+  <img src="https://github.com/user-attachments/assets/a4afb7bb-9011-4397-be36-80fb92a25b3c" width="600" height="400" style="border: 2px solid black; />
   
 </div><br>
 
